@@ -1,3 +1,7 @@
 practicing git
+<<<<<<< Updated upstream
 working on djhbhdsbfhbhj bergeconflict
+=======
+working on djhbhdsbfhbhjbergeconflict
+>>>>>>> Stashed changes
 dfhshhegfuyusgfhdhfjd
